@@ -1,0 +1,33 @@
+###battlemechanic###
+membuat fungsi sebagai berikut
+player pilih angka 1 sampai 3
+komputer pilih acak angka 1 sampai 3
+jika player pilih 1 dan komputer pilih 1
+  player nyawa kurang musuh serangan
+  musuh nyawa kurang player serangan
+jika player pilih 1 dan komputer pilih 2
+  player nyawa kurang musuh serangan dikali 2
+  musuh nyawa kurang player serangan
+jika player pilih 1 dan komputer pilih 3
+  player nyawa tidak berkurang
+  musuh nyawa kurang player serangan
+
+jika player pilih 2 dan komputer pilih 1
+  player nyawa kurang musuh serangan
+  musuh nyawa kurang player serangan dikali 2
+jika player pilih 2 dan komputer pilih 2
+  player nyawa kurang musuh serangan dikali 2
+  musuh nyawa kurang player serangan dikali 2
+jika player pilih 2 dan komputer pilih 3
+  player nyawa kurang musuh serangan dikali 2
+  musuh nyawa tidak berkurang
+
+
+jika player pilih 3 dan komputer pilih 1
+  player nyawa kurang musuh serangan
+  musuh nyawa tidak berkurang
+jika player pilih 3 dan komputer pilih 2
+  player nyawa tidak berkurang
+  musuh nyawa kurang player serangan dikali 2
+jika player pilih 3 dan komputer pilih 3
+  player nyawa dan musuh nyawa tidak berkurang

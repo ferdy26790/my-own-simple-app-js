@@ -1,0 +1,21 @@
+SIMPAN informasi karakter = nyawa:10
+                            serangan:1
+                            uang:100
+                            senjata:revolver
+                            baju:jaket
+
+
+SIMPAN informasi musuh1 = nyawa:3
+                         uang:100
+                         serangan:1
+
+SIMPAN informasi musuh2 = nyawa:3
+                          uang:100
+                          serangan:1
+
+SIMPAN informasi boss = nyawa:10
+                        uang:500
+                        serangan:2
+
+SIMPAN informasi toko = senjata: shotgun
+                        armor : bulletproofvest

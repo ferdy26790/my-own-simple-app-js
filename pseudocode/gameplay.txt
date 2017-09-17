@@ -1,0 +1,22 @@
+simpan character
+simpan battlemechanic
+simpan battleEncounter
+simpan merchant encounter
+
+tuliskan cerita
+simpan nama
+tuliskan cerita
+
+jalankan battleencounter(musuh1)
+
+jika player menang = 1
+  tuliskan cerita
+  jalankan battleencounter(musuh2)
+  tuliskan cerita
+  jika player menang = 2
+    tuliskan cerita
+    jalankan merchantencounter
+    tuliskan cerita
+    jalankan battleencounter(boss)
+      jika player menang = 3
+      tuliskan cerita

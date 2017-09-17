@@ -1,0 +1,22 @@
+###merchantencounter###
+membuat fungsi sebagai berikut
+simpan shop = true
+while shop = true
+  prompt senjata $300
+         armor $300
+         keluar
+ jika player pilih senjata
+  jika player uang lebih dari atau sama dengan harga senjata
+    player serangan ditambah 2
+    ubah shop = false
+  jika tidak
+    tuliskan uang kamu tidak cukup
+jika player pilih armor
+  jika player uang lebih dari atau sama dengan harga armor
+    player nyawa sama denga 15
+    ubah shop = false
+  jika tidak
+    tuliskan uang kamu tidak cukup
+jika player pilih keluar
+  tulisakan kamu meninggalkan merchant
+  ubah shop = false

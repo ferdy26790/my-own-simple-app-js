@@ -1,0 +1,13 @@
+###battleencounter###
+membuat fungsi sebagai berikut
+while musuh nyawa lebih dari 0
+  jalankan battlemechanic
+  jika musuh nyawa kurang dari atau sama dengan 0
+    tuliskan kamu menang
+    tuliskan kamu mendapatkan $100
+    player uang ditambah musuh uang
+    tuliskan player nyawa dan player uang
+
+  jika musuh nyawa lebih dari 0 dan player nyawa kurang dari atau sama dengan 0
+    tuliskan kamu kalah
+    tuliskan game over
